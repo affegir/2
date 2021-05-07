@@ -1,0 +1,35 @@
+<style>
+body{
+  background:#4169E1; 
+}
+
+#wrapper{ 
+  width: 100%; 
+  margin: 0 auto;
+  background:#4169E1; 
+}
+#header{
+position:relative; 
+  height: 250px; 
+  background-color: #191970; 
+   margin-bottom: 5px; 
+  border-radius: 5px;
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
+  color:#FFFFFF;}
+ img{ 
+float: left; 
+  margin: -70px 0 0 650px;} 
+  h1{
+  margin:0 0 10px 40px; /* Заголовок двигается верх-вправо-вниз-влево. */
+   
+}
+
+.Original{ 
+  top:100px; 
+  left:20px;
+  font-size: 15px; 
+  font-style:italic; 
+  font-weight:bold; 
+  color:#464451;
+}
